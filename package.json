@@ -1,0 +1,24 @@
+{
+  "name": "continuable-delay",
+  "version": "0.0.1",
+  "description": "Delay a continuable.",
+  "main": "delay.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pirfalt/continuable-delay.git"
+  },
+  "keywords": [
+    "continuable",
+    "delay",
+    "timeout"
+  ],
+  "author": "Emil Pirfält",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pirfalt/continuable-delay/issues"
+  },
+  "homepage": "https://github.com/pirfalt/continuable-delay"
+}
